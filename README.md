@@ -1,5 +1,5 @@
 <div align=center>
-   <h1>Jiwon Kim</h1>
+   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Jiwon&fontAlign=80&fontAlignY=40&color=gradient"><br>
    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjw3928"/>
 </div>
 <div align=center>
